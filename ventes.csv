@@ -1,0 +1,21 @@
+Transaction ID,Date,Customer ID,Gender,Product Category,Quantity,Price per Unit,Remise (%)
+1,2023-01-02,CUST1,Male,Beauty,5,190,20
+2,2023-01-03,CUST2,Male,Electronics,3,59,10
+3,2023-01-04,CUST3,Male,Clothing,4,69,15
+4,2023-01-05,CUST4,Female,Clothing,1,186,15
+5,2023-01-06,CUST5,Male,Beauty,4,124,0
+6,2023-01-07,CUST6,Male,Beauty,1,189,15
+7,2023-01-08,CUST7,Male,Beauty,2,165,20
+8,2023-01-09,CUST8,Male,Clothing,1,67,5
+9,2023-01-10,CUST9,Female,Clothing,5,72,0
+10,2023-01-11,CUST10,Female,Clothing,1,82,0
+11,2023-01-12,CUST11,Female,Clothing,4,28,0
+12,2023-01-13,CUST12,Female,Electronics,4,133,0
+13,2023-01-14,CUST13,Male,Clothing,5,36,0
+14,2023-01-15,CUST14,Female,Beauty,3,68,20
+15,2023-01-16,CUST15,Male,Beauty,3,22,0
+16,2023-01-17,CUST16,Female,Clothing,3,61,5
+17,2023-01-18,CUST17,Male,Clothing,5,96,0
+18,2023-01-19,CUST18,Female,Beauty,3,108,20
+19,2023-01-20,CUST19,Male,Electronics,2,83,15
+20,2023-01-21,CUST20,Female,Clothing,2,140,0
